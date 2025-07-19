@@ -60,8 +60,7 @@ Evaluation metrics used:
 - **Mean Squared Error (MSE)**
 - **Mean Absolute Error (MAE)**
 
-```python
-from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
+
 ✅ Conclusion
 This project demonstrates how predictive modeling can be applied to real-world governance challenges. By accurately forecasting fund utilization, we can drive greater accountability, optimize resource allocation, and support sustainable urban planning in India.
 
