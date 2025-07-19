@@ -1,4 +1,4 @@
-# -Waste-Analysis--and-Prediction
+# -Waste-Analysis-and-Prediction
  Waste Management Analysis &amp; Prediction Using Machine Learning
 
 # ♻️ Predicting Waste Fund Utilization in Indian Cities Using Machine Learning and Deep Learning
